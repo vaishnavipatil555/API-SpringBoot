@@ -3,7 +3,7 @@ Execute jar file:
 In command prompt, enter command:
     java -jar POC-0.0.1-SNAPSHOT.jar
     
-Execute using STS(Spring Tool Suit) IDE:
+Execute using STS(Spring Tool Suite) IDE:
 Install Spring Tools Suite version 3: https://github.com/spring-projects/toolsuite-distribution/wiki/Spring-Tool-Suite-3
 Import the POC application
 Right click POC application -> Run as -> Spring boot App
