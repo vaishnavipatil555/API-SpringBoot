@@ -1,4 +1,4 @@
-# POC
+# Spring Boot API
 #### Execute jar file:
 > In command prompt, enter command:
 
